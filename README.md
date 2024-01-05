@@ -62,6 +62,12 @@ The instruction tell you to begin though with a glossy black base coat before ap
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_3_Color_changing_coat.jpeg" alt="Coat of color-changing paint.">
 </p>
 
+To finish the model I wanted to trim the edges with a metallic paint. Rather than try to do this by hand, I instead attempted to create a set of masks to cover the solar panels on the model and use a spray coat of a metallic paint.
+
+I created the masks from vinyl using a vinyl cutter and the Silhouette Studio software that came with it. The Silhouette Studio file is included in the repo (I am unable to convert it to something standard like SVG).
+
+The masks were carefully applied to the solar panels and the model spreyed with a metallic color.
+
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_4_Vinyl_masks.jpeg" alt="Vinyl masks.">
 </p>
@@ -73,6 +79,8 @@ The instruction tell you to begin though with a glossy black base coat before ap
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_6_Silver_coat.jpeg" alt="Metallic coat of paint applied.">
 </p>
+
+Removing the masks with a pair of needle tweezers reveals the final model. From the proper distance the model looks quite nice.
 
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_7_Masks_removed.jpeg" alt="Vinyl masks removed.">
