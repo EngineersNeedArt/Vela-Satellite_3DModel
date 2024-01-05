@@ -34,6 +34,11 @@ Here though are a handful of reference images though to give you an idea of what
 
 ### 3D Model
 
+I used Blender to create the Vela model, then I exported the model as an .STL file, brought it into a "slicer" program to ready it for a resin printer, and then printed it from resin. When slicing the model, I scaled it such that the resulting print would be about 3 cm in diameter.
+
+It took a number of iterations to get the final model. Initially, for example, I tried creating the complete Vela satellite as one file and printing it complete. If you are familiar with 3D printing you are aware that some supports need to be added to hold the model as it is being "extruded" in the resin vat — unfortunately the side of the model that was being held by supports always looked inferior to the unsupported side.
+
+The solution turned out to be to split the model into half more or less along the equator of the satellite. Since Vela is fairly symetrical between its two hemispheres you can simply print the same model twice and use some CA glue to join the two halves to make a complete model.
 
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_0_Two_prints.jpeg" alt="Vela printed in two halves.">
