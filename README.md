@@ -34,6 +34,39 @@ Here though are a handful of reference images though to give you an idea of what
 
 ### 3D Model
 
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_0_Two_prints.jpeg" alt="Vela printed in two halves.">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_1_Prints_joined.jpeg" alt="Two model halves joined">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_2_Black_coat.jpeg" alt="Black coat of paint.">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_3_Color_changing_coat.jpeg" alt="Coat of color-changing paint.">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_4_Vinyl_masks.jpeg" alt="Vinyl masks.">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_5_Masks_applied.jpeg" alt="Vinyl masks applied to model.">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_6_Silver_coat.jpeg" alt="Metallic coat of paint applied.">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_7_Masks_removed.jpeg" alt="Vinyl masks removed.">
+</p>
+
 <p align="center">
 <i>"Good enough for 1.0…"</i>
 </p>
