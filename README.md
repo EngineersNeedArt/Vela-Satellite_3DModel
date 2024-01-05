@@ -48,6 +48,12 @@ The solution turned out to be to split the model into half more or less along th
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_1_Prints_joined.jpeg" alt="Two model halves joined">
 </p>
 
+Assembly is that simnple.
+
+Painting is not too difficult either. There are fascinating color-shifting paints that do a fantastic job of simulating the irridescence of solar panels from the Vela era. I chose an Electric-Blue/Intense-Violet paint from Vallejo paints that is part of their Space Dust set.
+
+The instruction tell you to begin though with a glossy black base coat before applying the color-shifting paint. When dry, it can then be followed with the color-shift paint.
+
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_2_Black_coat.jpeg" alt="Black coat of paint.">
 </p>
