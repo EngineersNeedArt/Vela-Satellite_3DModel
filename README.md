@@ -1,9 +1,11 @@
 # Vela Satellite, 3D Model
-3D model of the Vela satellite
 
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/ae7abd7dd1918f8d365fce13873b1c08a39ddc44/print_images/Model_8_Iterations.jpeg" alt="Vela 3D models iterated.">
+<br>
+Iterations of the Vela model.
 </p>
+
 This is a simple model of the Vela satellite I created using the [Blender](https://www.blender.org) software. I have included the files I used to create the model in this repo.
 
 The model was created to be printed at a fairly small scale. It lacks detail for a larger print — was meant as a prop for my Space Tug model that I also created in Blender (the Space Tug has manipulator arms and I wanted something for them to manipulate).
