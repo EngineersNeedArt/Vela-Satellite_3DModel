@@ -40,7 +40,7 @@ I used Blender to create the Vela model, then I exported the model as an .STL fi
 
 It took a number of iterations to get the final model. Initially, for example, I tried creating the complete Vela satellite as one file and printing it complete. If you are familiar with 3D printing you are aware that some supports need to be added to hold the model as it is being "extruded" in the resin vat — unfortunately the side of the model that was being held by supports always looked inferior to the unsupported side.
 
-The solution turned out to be to split the model into half more or less along the equator of the satellite. Since Vela is fairly symetrical between its two hemispheres you can simply print the same model twice and use some CA glue to join the two halves to make a complete model.
+The solution turned out to be to split the model into half more or less along the equator of the satellite. Since Vela is fairly symmetrical between its two hemispheres you can simply print the same model twice and use some CA glue to join the two halves to make a complete model.
 
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_0_Two_prints.jpeg" alt="Vela printed in two halves.">
@@ -50,9 +50,9 @@ The solution turned out to be to split the model into half more or less along th
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_1_Prints_joined.jpeg" alt="Two model halves joined">
 </p>
 
-Assembly is that simnple.
+Assembly is that simple.
 
-Painting is not too difficult either. There are fascinating color-shifting paints that do a fantastic job of simulating the irridescence of solar panels from the Vela era. I chose an Electric-Blue/Intense-Violet paint from Vallejo paints that is part of their Space Dust set.
+Painting is not too difficult either. There are fascinating color-shifting paints that do a fantastic job of simulating the iridescence of solar panels from the Vela era. I chose an Electric-Blue/Intense-Violet paint from Vallejo paints that is part of their Space Dust set.
 
 The instruction tell you to begin though with a glossy black base coat before applying the color-shifting paint. When dry, it can then be followed with the color-shift paint.
 
@@ -68,7 +68,7 @@ To finish the model I wanted to trim the edges with a metallic paint. Rather tha
 
 I created the masks from vinyl using a vinyl cutter and the Silhouette Studio software that came with it. The Silhouette Studio file is included in the repo (I am unable to convert it to something standard like SVG).
 
-The masks were carefully applied to the solar panels and the model spreyed with a metallic color.
+The masks were carefully applied to the solar panels and the model sprayed with a metallic color.
 
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_4_Vinyl_masks.jpeg" alt="Vinyl masks.">
